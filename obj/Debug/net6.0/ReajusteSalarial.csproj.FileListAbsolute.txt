@@ -1,0 +1,15 @@
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\net6.0\ReajusteSalarial.exe
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\net6.0\ReajusteSalarial.deps.json
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\net6.0\ReajusteSalarial.runtimeconfig.json
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\net6.0\ReajusteSalarial.dll
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\bin\Debug\net6.0\ReajusteSalarial.pdb
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.AssemblyInfoInputs.cache
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.AssemblyInfo.cs
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.dll
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\refint\ReajusteSalarial.dll
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.pdb
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ReajusteSalarial.genruntimeconfig.cache
+C:\Users\lucim\source\repos\ReajusteSalarial\ReajusteSalarial\obj\Debug\net6.0\ref\ReajusteSalarial.dll
